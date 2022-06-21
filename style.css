@@ -1,5 +1,6 @@
 section {
   display: flex;
+  margin-bottom: 100px;
 }
 
 body {
@@ -34,4 +35,10 @@ body {
   background-image: url(image/top-banner.png);
   background-repeat: no-repeat;
 
+}
+
+.dream-big {
+  background-image: url(image/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
